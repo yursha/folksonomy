@@ -1,0 +1,2 @@
+src_url,vcs,name,web_url,description
+https://github.com/QuantConnect/Lean,git,Lean Engine,https://www.quantconnect.com/lean/,"Lean Algorithmic Trading Engine by QuantConnect (C#, Python, F#)"
