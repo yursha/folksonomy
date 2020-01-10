@@ -1,10 +1,10 @@
 # What it is
 
-*CodeDance Folksonomy* is a knowledge base for collaborative tagging of open-source software.
+*Code Metrics Report Folksonomy* is a knowledge base for collaborative tagging of open-source software.
 
 It's permissively licensed and can power analytics engines and knowledge databases, that target open-source software.
-As an example, it powers content classification at www.code.dance.
-Every day a script runs and pulls from this repository redefining how OSS projects are grouped and displayed at www.code.dance.
+As an example, it powers content classification at www.codemetrics.report.
+Every day a script runs and pulls from this repository redefining how OSS projects are grouped and displayed at www.codemetrics.report.
 
 # How it works
 
