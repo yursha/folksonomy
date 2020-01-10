@@ -1,7 +1,7 @@
 src_url,vcs,name,web_url,description
-https://github.com/zeit/next.js,git,zeit/next.js,,
-https://github.com/gatsbyjs/gatsby,git,Gatsby,,
-https://github.com/gohugoio/hugo,git,gohugoio/hugo,,
-https://github.com/jekyll/jekyll,git,jekyll/jekyll,,
-https://github.com/nuxt/nuxt.js,git,nuxt/nuxt.js,,
-https://github.com/gatsbyjs/gatsby-starter-blog,git,Gatsby's blog starter,,Gatsby's blog starter
+https://github.com/zeit/next.js,git,Next.js,https://nextjs.org/,"The React framework for froduction, server-rendered apps and static websites."
+https://github.com/gatsbyjs/gatsby,git,Gatsby,https://www.gatsbyjs.org/,"Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps."
+https://github.com/gohugoio/hugo,git,gohugoio/hugo,https://gohugo.io/,"Hugo is a static HTML and CSS website generator written in Go. It is optimized for speed, ease of use, and configurability. Hugo takes a directory with content and templates and renders them into a full HTML website."
+https://github.com/jekyll/jekyll,git,Jekyll,https://jekyllrb.com/,"Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. Think of it like a file-based CMS, without all the complexity. Jekyll takes your content, renders Markdown and Liquid templates, and spits out a complete, static website ready to be served by Apache, Nginx or another web server."
+https://github.com/nuxt/nuxt.js,git,Nuxt.js,https://nuxtjs.org/,"Vue.js Meta Framework to create complex, fast & universal web applications quickly."
+https://github.com/gatsbyjs/gatsby-starter-blog,git,Gatsby's blog starter,https://gatsby-starter-blog-demo.netlify.com/,"Gatsby's blog boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast."
