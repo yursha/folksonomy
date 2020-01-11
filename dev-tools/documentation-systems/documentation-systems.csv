@@ -1,4 +1,4 @@
 src_url,vcs,name,web_url,description
-https://github.com/facebook/docusaurus,git,facebook/docusaurus,,
-https://github.com/readthedocs/readthedocs.org,git,readthedocs/readthedocs.org,,
-https://github.com/sphinx-doc/sphinx,git,Sphinx,http://www.sphinx-doc.org/,A tool that makes it easy to create intelligent and beautiful documentation for Python projects (or other documents consisting of multiple reStructuredText sources)
+https://github.com/facebook/docusaurus,git,Docusaurus,https://docusaurus.io/,"Docusaurus is a project for easily building, deploying, and maintaining open source project websites."
+https://github.com/readthedocs/readthedocs.org,git,Read the Docs,https://readthedocs.org/,"Read the Docs hosts documentation for the open source community. It supports Sphinx docs written with reStructuredText, and can pull from your Subversion, Bazaar, Git, and Mercurial repositories. Then we build documentation and host it for you. Think of it as Continuous Documentation."
+https://github.com/sphinx-doc/sphinx,git,Sphinx,http://www.sphinx-doc.org/,"A tool that makes it easy to create intelligent and beautiful documentation for Python projects (or other documents consisting of multiple reStructuredText sources)."
