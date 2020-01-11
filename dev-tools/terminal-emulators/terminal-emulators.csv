@@ -1,5 +1,6 @@
 src_url,vcs,name,web_url,description
-https://github.com/microsoft/terminal,git,microsoft/terminal,,
-https://github.com/mbadolato/iTerm2-Color-Schemes,git,mbadolato/iTerm2-Color-Schemes,,
-https://github.com/gnachman/iTerm2,git,gnachman/iTerm2,,
-https://github.com/termux/termux-packages,git,termux/termux-packages,,
+https://github.com/microsoft/terminal,git,Windows Terminal,https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701,"The new Windows Terminal, and the original Windows console host."
+https://github.com/mbadolato/iTerm2-Color-Schemes,git,iTerm2 Color Schemes,http://www.iterm2colorschemes.com/,"Over 200 terminal color schemes/themes for iTerm/iTerm2."
+https://github.com/gnachman/iTerm2,git,gnachman/iTerm2,https://iterm2.com/,"iTerm2 is a terminal emulator for Mac OS X that does amazing things."
+https://github.com/termux/termux-packages,git,Termux packages,https://termux.com/,"Android terminal and Linux environment - packages repository."
+https://github.com/termux/termux-app,git,Termux,https://github.com/termux/termux-app,"Termux is an Android terminal application and Linux environment."
