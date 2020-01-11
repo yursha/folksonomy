@@ -1,6 +1,7 @@
 src_url,vcs,name,web_url,description
-https://github.com/PowerShell/PowerShell,git,PowerShell/PowerShell,,
-https://github.com/fish-shell/fish-shell,git,fish-shell/fish-shell,,
-https://github.com/Bash-it/bash-it,git,Bash-it/bash-it,,
+https://github.com/PowerShell/PowerShell,git,PowerShell,https://microsoft.com/PowerShell,"PowerShell Core is a cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell, an associated scripting language and a framework for processing cmdlets."
+https://github.com/fish-shell/fish-shell,git,fish,http://fishshell.com/,"fish is a smart and user-friendly command line shell for macOS, Linux, and the rest of the family. fish includes features like syntax highlighting, autosuggest-as-you-type, and fancy tab completions that just work, with no configuration required."
+https://github.com/Bash-it/bash-it,git,Bash-it,,"Bash-it is a collection of community Bash commands and scripts for Bash 3.2+."
 https://git.kernel.org/pub/scm/utils/dash/dash.git,git,DASH,http://gondor.apana.org.au/~herbert/dash/,"A POSIX-compliant implementation of /bin/sh that aims to be as small as possible. It does this without sacrificing speed where possible. In fact, it is significantly faster than bash (the GNU Bourne-Again SHell) for most tasks."
 https://git.savannah.gnu.org/git/bash.git,git,GNU Bash,https://www.gnu.org/software/bash/,"GNU Project's shell, which is an sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh)."
+https://github.com/ohmyzsh/ohmyzsh,git,Oh My Zsh,https://ohmyz.sh/,"Oh My Zsh is an open source, community-driven framework for managing your zsh configuration."
