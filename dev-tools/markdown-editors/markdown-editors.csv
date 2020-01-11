@@ -1,3 +1,3 @@
 src_url,vcs,name,web_url,description
-https://github.com/BoostIO/Boostnote,git,BoostIO/Boostnote,,
-https://github.com/marktext/marktext,git,marktext/marktext,,
+https://github.com/BoostIO/Boostnote,git,Boostnote,,"A markdown editor for developers on Mac, Windows and Linux."
+https://github.com/marktext/marktext,git,Mark Text,https://marktext.app/,"A simple and elegant markdown editor, available for Linux, macOS and Windows."
