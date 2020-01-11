@@ -1,14 +1,14 @@
 src_url,vcs,name,web_url,description
-https://github.com/facebook/jest,git,facebook/jest,,
-https://github.com/square/leakcanary,git,square/leakcanary,,
-https://github.com/mochajs/mocha,git,mochajs/mocha,,
-https://github.com/cypress-io/cypress,git,cypress-io/cypress,,
-https://github.com/SeleniumHQ/selenium,git,SeleniumHQ/selenium,,
-https://github.com/sebastianbergmann/phpunit,git,sebastianbergmann/phpunit,,
-https://github.com/appium/appium,git,appium/appium,,
-https://github.com/mockito/mockito,git,mockito/mockito,,
-https://github.com/wix/Detox,git,wix/Detox,,
-https://github.com/webdriverio/webdriverio,git,webdriverio/webdriverio,,
-https://github.com/pytest-dev/pytest,git,pytest-dev/pytest,,
-https://github.com/robotframework/robotframework,git,robotframework/robotframework,,
-https://github.com/cucumber/cucumber-jvm,git,Cucumber,https://cucumber.io/,A tool that supports Behaviour-Driven Development (BDD).
+https://github.com/facebook/jest,git,Jest,https://jestjs.io/,"Jest is a delightful JavaScript Testing Framework with a focus on simplicity."
+https://github.com/square/leakcanary,git,LeakCanary,https://square.github.io/leakcanary,"LeakCanary is a memory leak detection library for Android."
+https://github.com/mochajs/mocha,git,Mocha,https://mochajs.org/,"Simple, flexible, fun javascript test framework for node.js & the browser."
+https://github.com/cypress-io/cypress,git,Cypress,https://www.cypress.io/,"Fast, easy and reliable testing for anything that runs in a browser."
+https://github.com/SeleniumHQ/selenium,git,Selenium,https://selenium.dev/,"Selenium is an umbrella project encapsulating a variety of tools and libraries enabling web browser automation. Selenium specifically provides infrastructure for the W3C WebDriver specification — a platform and language-neutral coding interface compatible with all major web browsers."
+https://github.com/sebastianbergmann/phpunit,git,PHPUnit,https://phpunit.de/,"PHPUnit is a programmer-oriented testing framework for PHP. It is an instance of the xUnit architecture for unit testing frameworks."
+https://github.com/appium/appium,git,Appium,http://appium.io/,"Appium is an open source, cross-platform test automation tool for native, hybrid and mobile web and desktop apps. We support simulators (iOS), emulators (Android), and real devices (iOS, Android, Windows, Mac)."
+https://github.com/mockito/mockito,git,Mockito,http://mockito.org/,"Most popular Mocking framework for unit tests written in Java."
+https://github.com/wix/Detox,git,Detox,,"Gray box end-to-end testing and automation framework for mobile apps."
+https://github.com/webdriverio/webdriverio,git,WebdriverIO,http://webdriver.io/,"WebdriverIO is a test automation framework that allows you to run tests based on the Webdriver protocol and Appium automation technology. It provides support for your favorite BDD/TDD test framework and will run your tests locally or in the cloud using Sauce Labs, BrowserStack or TestingBot."
+https://github.com/pytest-dev/pytest,git,pytest,https://pytest.org/,"The pytest framework makes it easy to write small tests, yet scales to support complex functional testing."
+https://github.com/robotframework/robotframework,git,Robot Framework,http://robotframework.org/,"Robot Framework is a generic open source automation framework for acceptance testing, acceptance test driven development (ATDD), and robotic process automation (RPA). It has simple plain text syntax and it can be extended easily with libraries implemented using Python or Java."
+https://github.com/cucumber/cucumber-jvm,git,Cucumber,https://cucumber.io/,"A tool that supports Behaviour-Driven Development (BDD)."
