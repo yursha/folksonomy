@@ -6,3 +6,5 @@ https://github.com/ansible/awx,git,ansible/awx,,
 https://github.com/chef/chef,git,chef/chef,,
 https://github.com/puppetlabs/puppet,git,puppetlabs/puppet,,
 https://github.com/kubernetes/autoscaler,git,Kubernetes Autoscaler,,Autoscaling components for Kubernetes
+https://github.com/hashicorp/vagrant,git,Vagrant,https://www.vagrantup.com/,"Vagrant is a tool for building and distributing development environments. Development environments managed by Vagrant can run on local virtualized platforms such as VirtualBox or VMware, in the cloud via AWS or OpenStack, or in containers such as with Docker or raw LXC."
+https://github.com/ansible/ansible-examples,git,Ansible examples,http://galaxy.ansible.com/,"A few starter examples of ansible playbooks, to show features and how they work together."
