@@ -1,11 +1,11 @@
 src_url,vcs,name,web_url,description
-https://github.com/hashicorp/vagrant,git,hashicorp/vagrant,,
-https://github.com/aws/aws-cli,git,aws/aws-cli,,
-https://github.com/googleapis/google-api-nodejs-client,git,googleapis/google-api-nodejs-client,,
-https://github.com/ansible/ansible-examples,git,ansible/ansible-examples,,
-https://github.com/Azure/azure-quickstart-templates,git,Azure/azure-quickstart-templates,,
-https://github.com/aws/aws-sdk-js,git,aws/aws-sdk-js,,
-https://github.com/aws/aws-sdk-go,git,aws/aws-sdk-go,,
-https://github.com/aws/aws-sdk-php,git,aws/aws-sdk-php,,
-https://github.com/GoogleCloudPlatform/training-data-analyst,git,training-data-analyst,http://cloud.google.com/training,Labs and demos for courses for GCP Training
-https://github.com/googleapis/google-cloud-python,git,Google Cloud Python Client,https://github.com/googleapis/google-cloud-python#google-cloud-python-client,Google Cloud Client Library for Python
+https://github.com/hashicorp/vagrant,git,Vagrant,https://www.vagrantup.com/,"Vagrant is a tool for building and distributing development environments. Development environments managed by Vagrant can run on local virtualized platforms such as VirtualBox or VMware, in the cloud via AWS or OpenStack, or in containers such as with Docker or raw LXC."
+https://github.com/aws/aws-cli,git,AWS CLI,,"Universal Command Line Interface for Amazon Web Services."
+https://github.com/googleapis/google-api-nodejs-client,git,Google API Node.js client,https://googleapis.dev/nodejs/googleapis/latest/,"Google's officially supported Node.js client library for accessing Google APIs."
+https://github.com/ansible/ansible-examples,git,Ansible examples,http://galaxy.ansible.com/,"A few starter examples of ansible playbooks, to show features and how they work together."
+https://github.com/Azure/azure-quickstart-templates,git,Azure quickstart templates,https://azure.microsoft.com/en-us/documentation/templates,"Azure Resource Manager templates contributed by the community."
+https://github.com/aws/aws-sdk-js,git,AWS JavaScript SDK,http://aws.amazon.com/javascript,"AWS SDK for JavaScript in the browser and Node.js."
+https://github.com/aws/aws-sdk-go,git,AWS Go SDK,http://aws.amazon.com/sdk-for-go/,"AWS SDK for the Go programming language."
+https://github.com/aws/aws-sdk-php,git,AWS PHP SDK,http://aws.amazon.com/sdkforphp,"Official repository of the AWS SDK for PHP."
+https://github.com/GoogleCloudPlatform/training-data-analyst,git,training-data-analyst,http://cloud.google.com/training,"Labs and demos for courses for GCP Training."
+https://github.com/googleapis/google-cloud-python,git,Google Cloud Python Client,https://github.com/googleapis/google-cloud-python#google-cloud-python-client,"Google Cloud Client Library for Python."
