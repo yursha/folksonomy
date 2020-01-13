@@ -13,3 +13,4 @@ https://github.com/SonarSource/sonarqube,git,SonarQube,http://www.sonarqube.org/
 https://github.com/pmd/pmd,git,PMD,https://pmd.github.io/,"An extensible multilanguage static code analyzer."
 https://github.com/facebook/flow,git,Flow,https://flow.org/,"Flow is a static typechecker for JavaScript."
 https://github.com/python/mypy,git,Mypy,http://www.mypy-lang.org/,"Mypy is an optional static type checker for Python. You can add type hints (PEP 484) to your Python programs, and use mypy to type check them statically."
+https://github.com/coala/coala,git,Coala,https://coala.io/,"coala provides a unified interface for linting and fixing code with a single configuration file, regardless of the programming languages used. You can use coala from within your favorite editor, integrate it with your CI, get the results as JSON, or customize it to your needs with its flexible configuration syntax."
