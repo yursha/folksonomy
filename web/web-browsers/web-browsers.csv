@@ -2,3 +2,4 @@ src_url,vcs,name,web_url,description
 https://github.com/servo/servo,git,Servo,https://servo.org/,"Servo is a modern, high-performance browser engine designed for both application and embedded use."
 https://github.com/mozilla-mobile/firefox-ios,git,Firefox for iOS,https://apps.apple.com/app/firefox-web-browser/id989804926,"Firefox for iOS."
 https://github.com/chromium/chromium,git,Chromium,https://www.chromium.org/,"The Chromium projects include Chromium and Chromium OS, the open-source projects behind the Google Chrome browser and Google Chrome OS, respectively."
+https://github.com/GoogleChrome/lighthouse,git,Lighthouse,https://developers.google.com/web/tools/lighthouse/,"Lighthouse analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices. Lighthouse is integrated directly into the Chrome Developer Tools, under the ""Audits"" panel."
