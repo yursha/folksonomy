@@ -1,11 +1,11 @@
 src_url,vcs,name,web_url,description
-https://github.com/spree/spree,git,spree/spree,,
-https://github.com/reactioncommerce/reaction,git,reactioncommerce/reaction,,
-https://github.com/magento/magento2,git,Magento,,
-https://github.com/mirumee/saleor,git,mirumee/saleor,,
-https://github.com/woocommerce/woocommerce,git,woocommerce/woocommerce,,
-https://github.com/Sylius/Sylius,git,Sylius/Sylius,,
-https://github.com/PrestaShop/PrestaShop,git,PrestaShop/PrestaShop,,
-https://github.com/nopSolutions/nopCommerce,git,nopSolutions/nopCommerce,,
-https://github.com/activemerchant/active_merchant,git,activemerchant/active_merchant,,
-https://github.com/django-oscar/django-oscar,git,django-oscar/django-oscar,,
+https://github.com/spree/spree,git,Spree,https://spreecommerce.org/,"Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations."
+https://github.com/reactioncommerce/reaction,git,Reaction,https://reactioncommerce.com/,"Reaction is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes."
+https://github.com/magento/magento2,git,Magento,http://www.magento.com/,"Magento Commerce, offers a one-of-a-kind eCommerce solution with enterprise power, unlimited scalability, and open-source flexibility for B2C and B2B experiences."
+https://github.com/mirumee/saleor,git,Saleor,https://saleor.io/,"A modular, high performance, headless e-commerce storefront built with Python, GraphQL, Django, and ReactJS."
+https://github.com/woocommerce/woocommerce,git,WooCommerce,http://www.woocommerce.com/,"An open source eCommerce plugin for WordPress."
+https://github.com/Sylius/Sylius,git,Sylius,https://sylius.com/,"Open Source eCommerce Platform on Symfony."
+https://github.com/PrestaShop/PrestaShop,git,PrestaShop,https://www.prestashop.com/,"PrestaShop is an Open Source e-commerce web application, committed to providing the best shopping cart experience for both merchants and customers."
+https://github.com/nopSolutions/nopCommerce,git,nopCommerce,https://www.nopcommerce.com/,"The most popular open source ecommerce shopping cart solution based on ASP.NET Core."
+https://github.com/activemerchant/active_merchant,git,Active Merchant,http://activemerchant.org/,"Active Merchant is a simple payment abstraction library extracted from Shopify. The aim of the project is to feel natural to Ruby users and to abstract as many parts as possible away from the user to offer a consistent interface across all supported gateways."
+https://github.com/django-oscar/django-oscar,git,Oscar,http://oscarcommerce.com/,"Oscar is an e-commerce framework for Django designed for building domain-driven sites."
