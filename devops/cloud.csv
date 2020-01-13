@@ -1,8 +1,6 @@
 src_url,vcs,name,web_url,description
-https://github.com/hashicorp/vagrant,git,Vagrant,https://www.vagrantup.com/,"Vagrant is a tool for building and distributing development environments. Development environments managed by Vagrant can run on local virtualized platforms such as VirtualBox or VMware, in the cloud via AWS or OpenStack, or in containers such as with Docker or raw LXC."
 https://github.com/aws/aws-cli,git,AWS CLI,,"Universal Command Line Interface for Amazon Web Services."
 https://github.com/googleapis/google-api-nodejs-client,git,Google API Node.js client,https://googleapis.dev/nodejs/googleapis/latest/,"Google's officially supported Node.js client library for accessing Google APIs."
-https://github.com/ansible/ansible-examples,git,Ansible examples,http://galaxy.ansible.com/,"A few starter examples of ansible playbooks, to show features and how they work together."
 https://github.com/Azure/azure-quickstart-templates,git,Azure quickstart templates,https://azure.microsoft.com/en-us/documentation/templates,"Azure Resource Manager templates contributed by the community."
 https://github.com/aws/aws-sdk-js,git,AWS JavaScript SDK,http://aws.amazon.com/javascript,"AWS SDK for JavaScript in the browser and Node.js."
 https://github.com/aws/aws-sdk-go,git,AWS Go SDK,http://aws.amazon.com/sdk-for-go/,"AWS SDK for the Go programming language."
