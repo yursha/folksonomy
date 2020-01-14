@@ -1,3 +1,3 @@
 src_url,vcs,name,web_url,description
-https://github.com/torvalds/linux,git,Linux kernel,https://www.kernel.org/,Linux kernel
-https://github.com/freebsd/freebsd,git,FreeBSD,,
+https://github.com/torvalds/linux,git,Linux,https://www.kernel.org/,"Linux is a clone of the operating system Unix, written from scratch by Linus Torvalds with assistance from a loosely-knit team of hackers across the Net. It aims towards POSIX and Single UNIX Specification compliance."
+https://github.com/freebsd/freebsd,git,FreeBSD,https://www.freebsd.org/,"FreeBSD is an operating system used to power modern servers, desktops, and embedded platforms."
