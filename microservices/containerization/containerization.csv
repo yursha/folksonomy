@@ -1,7 +1,7 @@
 src_url,vcs,name,web_url,description
-https://github.com/moby/moby,git,moby/moby,,
-https://github.com/portainer/portainer,git,portainer/portainer,,
-https://github.com/goharbor/harbor,git,goharbor/harbor,,
-https://github.com/docker/distribution,git,docker/distribution,,
-https://github.com/containerd/containerd,git,containerd/containerd,,
-https://github.com/docker/docker-ce,git,docker/docker-ce,,
+https://github.com/moby/moby,git,moby/moby,https://mobyproject.org/,"Moby is an open framework created by Docker to assemble specialized container systems without reinventing the wheel. It provides a “lego set” of dozens of standard components and a framework for assembling them into custom platforms."
+https://github.com/portainer/portainer,git,portainer/portainer,https://www.portainer.io/,"Portainer is a lightweight management UI which allows you to easily manage your different Docker environments (Docker hosts or Swarm clusters). Portainer is meant to be as simple to deploy as it is to use."
+https://github.com/goharbor/harbor,git,goharbor/harbor,https://goharbor.io/,"Harbor is an open source container image registry that secures images with role-based access control, scans images for vulnerabilities, and signs images as trusted."
+https://github.com/docker/distribution,git,docker/distribution,,"The Docker toolset to pack, ship, store, and deliver content"
+https://github.com/containerd/containerd,git,containerd/containerd,https://containerd.io/,"containerd is an industry-standard container runtime with an emphasis on simplicity, robustness and portability. It is available as a daemon for Linux and Windows, which can manage the complete container lifecycle of its host system."
+https://github.com/docker/docker-ce,git,docker/docker-ce,https://www.docker.com/products/container-runtime,"Docker Engine is the industry’s de facto container runtime that runs on various Linux (CentOS, Debian, Fedora, Oracle Linux, RHEL, SUSE, and Ubuntu) and Windows Server operating systems."
