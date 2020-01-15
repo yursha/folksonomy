@@ -1,4 +1,4 @@
 src_url,vcs,name,web_url,description
-https://github.com/ant-design/ant-design-pro,git,ant-design/ant-design-pro,,
-https://github.com/tabler/tabler,git,tabler/tabler,,
-https://github.com/marmelab/react-admin,git,marmelab/react-admin,,
+https://github.com/ant-design/ant-design-pro,git,Ant design pro,http://pro.ant.design/,"An out-of-box UI solution for enterprise applications as a React boilerplate."
+https://github.com/tabler/tabler,git,Tabler,https://tabler.io/,"Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap."
+https://github.com/marmelab/react-admin,git,React admin,http://marmelab.com/react-admin,"A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design."
