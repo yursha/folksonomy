@@ -1,2 +1,2 @@
 src_url,vcs,name,web_url,description
-https://github.com/fluent/fluentd,git,fluent/fluentd,,
+https://github.com/fluent/fluentd,git,fluent/fluentd,https://www.fluentd.org/,"Fluentd collects events from various data sources and writes them to files, RDBMS, NoSQL, IaaS, SaaS, Hadoop and so on."
