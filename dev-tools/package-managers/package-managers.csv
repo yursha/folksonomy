@@ -11,3 +11,4 @@ https://github.com/rubygems/rubygems,git,RubyGems,https://rubygems.org/,"Library
 https://github.com/npm/cli,git,npm,https://www.npmjs.com/,"A JavaScript package manager."
 https://github.com/dart-lang/pub-dev,git,pub.dev,https://pub.dev/,"The Dart package repository, written in Dart."
 https://github.com/bower/bower,git,Bower,https://bower.io/,"A package manager for the web."
+git://git.archlinux.org/pacman.git,git,pacman,https://www.archlinux.org/pacman/,"A simple library-based package manager for ArchLinux. It uses simple compressed files as a package format, and maintains a text-based package database (more of a hierarchy), just in case some hand tweaking is necessary."
