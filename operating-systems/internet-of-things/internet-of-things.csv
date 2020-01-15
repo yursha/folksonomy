@@ -1,14 +1,14 @@
 src_url,vcs,name,web_url,description
-https://github.com/esp8266/Arduino,git,esp8266/Arduino,,
-https://github.com/arduino/Arduino,git,arduino/Arduino,,
-https://github.com/micropython/micropython,git,MicroPython,,
-https://github.com/raspberrypi/linux,git,Raspberry Pi Linux,,
-https://github.com/emqx/emqx,git,emqx/emqx,,
-https://github.com/thingsboard/thingsboard,git,thingsboard/thingsboard,,
-https://github.com/espressif/esp-idf,git,espressif/esp-idf,,
-https://github.com/espressif/arduino-esp32,git,espressif/arduino-esp32,,
-https://github.com/RT-Thread/rt-thread,git,RT-Thread/rt-thread,,
-https://github.com/raspberrypi/documentation,git,raspberrypi/documentation,,
+https://github.com/esp8266/Arduino,git,Arduino ESP8266,https://www.arduino.cc/,"This project brings support for the ESP8266 chip to the Arduino environment. "
+https://github.com/arduino/Arduino,git,Arduino,https://www.arduino.cc/,"Arduino is an open-source physical computing platform based on a simple I/O board and a development environment that implements the Processing/Wiring language."
+https://github.com/micropython/micropython,git,MicroPython,http://www.micropython.org/,"MicroPython is a lean and efficient implementation of the Python 3 programming language that includes a small subset of the Python standard library and is optimised to run on microcontrollers and in constrained environments."
+https://github.com/raspberrypi/linux,git,Raspberry Pi Linux,https://www.kernel.org/doc/html/latest/,"This is the top level of the kernel’s documentation tree. Kernel documentation, like the kernel itself, is very much a work in progress; that is especially true as we work to integrate our many scattered documents into a coherent whole. "
+https://github.com/emqx/emqx,git,EMQ X Broker,https://www.emqx.io/,"EMQ X broker is a fully open source, highly scalable, highly available distributed MQTT messaging broker for IoT, M2M and Mobile applications that can handle tens of millions of concurrent clients."
+https://github.com/thingsboard/thingsboard,git,ThingsBoard,https://thingsboard.io/docs/,"ThingsBoard is an open-source IoT platform for data collection, processing, visualization, and device management."
+https://github.com/espressif/esp-idf,git,ESP-IDF,https://docs.espressif.com/projects/esp-idf/en/latest/,"ESP-IDF is the official development framework for the ESP32 chip."
+https://github.com/espressif/arduino-esp32,git,Arduino ESP32,https://github.com/wemos/Arduino_ESP32,"The SparkFun ESP32 Thing is a comprehensive development platform for Espressif's ESP32, their super-charged version of the popular ESP8266. "
+https://github.com/RT-Thread/rt-thread,git,RT-Thread,https://www.rt-thread.org/,"RT-Thread is an open source IoT operating system from China, which has strong scalability: from a tiny kernel running on a tiny core, for example ARM Cortex-M0, or Cortex-M3/4/7, to a rich feature system running on MIPS32, ARM Cortex-A8, ARM Cortex-A9 DualCore etc."
+https://github.com/raspberrypi/documentation,git,Raspberry Pi Documentation,https://www.raspberrypi.org/,"This is the official documentation for the Raspberry Pi, written by the Raspberry Pi Foundation with community contributions."
 https://github.com/zephyrproject-rtos/zephyr,git,Zephyr OS,https://www.zephyrproject.org/,"The Zephyr OS is based on a small-footprint kernel designed for use on resource-constrained and embedded systems: from simple embedded environmental sensors and LED wearables to sophisticated embedded controllers, smart watches, and IoT wireless applications. The Zephyr kernel supports multiple architectures, including ARM Cortex-M, Intel x86, ARC, NIOS II, Tensilica Xtensa and RISC-V 32."
 https://github.com/RIOT-OS/RIOT,git,RIOT,https://github.com/RIOT-OS/RIOT/wiki,The friendly OS for IoT
 https://github.com/ARMmbed/mbed-os,git,Mbed,https://www.mbed.com/en/,Arm Mbed OS is a platform operating system designed for the internet of things
