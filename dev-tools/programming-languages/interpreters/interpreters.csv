@@ -4,3 +4,4 @@ https://github.com/php/php-src,git,PHP,https://www.php.net/,"PHP is a popular ge
 https://github.com/ruby/ruby,git,Ruby,https://www.ruby-lang.org/,"Ruby is a dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write."
 https://git.savannah.gnu.org/git/mit-scheme.git,git,Scheme,https://www.gnu.org/software/mit-scheme/,"An implementation of the Scheme programming language, providing an interpreter, compiler, source-code debugger, integrated Emacs-like editor, and a large runtime library. MIT/GNU Scheme is best suited to programming large applications with a rapid development cycle."
 https://github.com/Perl/perl5,git,Perl 5,https://dev.perl.org/perl5/,"🐫The Perl 5 language interpreter."
+https://github.com/wch/r-source,git,R,https://www.r-project.org/,"R is a free software environment for statistical computing and graphics."
