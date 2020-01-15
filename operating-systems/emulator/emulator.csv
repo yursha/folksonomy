@@ -1,5 +1,5 @@
 src_url,vcs,name,web_url,description
-https://github.com/dolphin-emu/dolphin,git,dolphin-emu/dolphin,,
-https://github.com/mamedev/mame,git,mamedev/mame,,
-https://github.com/libretro/RetroArch,git,libretro/RetroArch,,
+https://github.com/dolphin-emu/dolphin,git,Dolphin,https://dolphin-emu.org/,"Dolphin is an emulator for running GameCube and Wii games on Windows, Linux, macOS, and recent Android devices."
+https://github.com/mamedev/mame,git,MAME,https://www.mamedev.org/,"MAME is a multi-purpose emulation framework."
+https://github.com/libretro/RetroArch,git,RetroArch,https://www.retroarch.com/,"RetroArch is the reference frontend for the libretro API. Popular examples of implementations for this API includes video game system emulators and game engines as well as more generalized 3D programs."
 https://github.com/qemu/qemu,git,QEMU,http://www.qemu.org/,A generic and open source machine & userspace emulator and virtualizer.
