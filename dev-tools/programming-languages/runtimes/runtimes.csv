@@ -6,3 +6,4 @@ https://github.com/openjdk/jdk,git,OpenJDK,http://openjdk.java.net/,"Oracle rema
 https://github.com/dotnet/runtime,git,.NET Core runtime,https://docs.microsoft.com/en-us/dotnet/core/,".NET is a cross-platform runtime for cloud, IoT, and desktop apps."
 https://github.com/facebook/hhvm,git,HHVM,https://hhvm.com/,"HHVM is an open-source virtual machine designed for executing programs written in Hack. HHVM uses a just-in-time (JIT) compilation approach to achieve great runtime performance while maintaining amazing development flexibility."
 https://github.com/LLK/scratch-vm,git,Scratch VM,http://llk.github.io/scratch-vm,"Virtual Machine used to represent, run, and maintain the state of programs for Scratch 3.0."
+https://www.octave.org/hg/octave,hg,Octave,https://www.gnu.org/software/octave/,"Scientific programming language with powerful mathematics-oriented syntax and built-in plotting and visualization tools."
