@@ -5,3 +5,4 @@ https://github.com/TypeStrong/ts-node,git,TS Node,,"TypeScript execution and REP
 https://github.com/openjdk/jdk,git,OpenJDK,http://openjdk.java.net/,"Oracle remains committed to OpenJDK as the best open-source Java implementation and will continue to improve OpenJDK and welcome external contributors."
 https://github.com/dotnet/runtime,git,.NET Core runtime,https://docs.microsoft.com/en-us/dotnet/core/,".NET is a cross-platform runtime for cloud, IoT, and desktop apps."
 https://github.com/facebook/hhvm,git,HHVM,https://hhvm.com/,"HHVM is an open-source virtual machine designed for executing programs written in Hack. HHVM uses a just-in-time (JIT) compilation approach to achieve great runtime performance while maintaining amazing development flexibility."
+https://github.com/LLK/scratch-vm,git,Scratch VM,http://llk.github.io/scratch-vm,"Virtual Machine used to represent, run, and maintain the state of programs for Scratch 3.0."
