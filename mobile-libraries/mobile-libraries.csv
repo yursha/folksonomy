@@ -1,9 +1,9 @@
 src_url,vcs,name,web_url,description
-https://github.com/facebook/fresco,git,facebook/fresco,,
-https://github.com/wix/react-native-navigation,git,wix/react-native-navigation,,
-https://github.com/FaridSafi/react-native-gifted-chat,git,FaridSafi/react-native-gifted-chat,,
-https://github.com/react-native-community/react-native-camera,git,react-native-community/react-native-camera,,
-https://github.com/TeamNewPipe/NewPipe,git,TeamNewPipe/NewPipe,,
-https://github.com/facebook/facebook-ios-sdk,git,facebook/facebook-ios-sdk,,
-https://github.com/facebook/facebook-android-sdk,git,facebook/facebook-android-sdk,,
-https://github.com/discordjs/discord.js,git,discordjs/discord.js,,
+https://github.com/facebook/fresco,git,facebook/fresco,https://frescolib.org/,"An Android library for managing images and the memory they use."
+https://github.com/wix/react-native-navigation,git,wix/react-native-navigation,https://wix.github.io/react-native-navigation/,"A complete native navigation solution for React Native"
+https://github.com/FaridSafi/react-native-gifted-chat,git,FaridSafi/react-native-gifted-chat,https://gifted.chat/,"💬 The most complete chat UI for React Native"
+https://github.com/react-native-community/react-native-camera,git,react-native-community/react-native-camera,https://react-native-community.github.io/react-native-camera/,"A Camera component for React Native. Also supports barcode scanning!"
+https://github.com/TeamNewPipe/NewPipe,git,TeamNewPipe/NewPipe,https://newpipe.schabi.org/,"A libre lightweight streaming front-end for Android."
+https://github.com/facebook/facebook-ios-sdk,git,facebook/facebook-ios-sdk,https://developers.facebook.com/docs/ios,"Used to integrate the Facebook Platform with your iOS & tvOS apps."
+https://github.com/facebook/facebook-android-sdk,git,facebook/facebook-android-sdk,https://developers.facebook.com/docs/android,"Used to integrate Android apps with Facebook Platform."
+https://github.com/discordjs/discord.js,git,discordjs/discord.js,https://discord.js.org/,"A powerful JavaScript library for interacting with the Discord API"
